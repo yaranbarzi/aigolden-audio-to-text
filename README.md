@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tz5ddLF1ITYsFNe9eUSmHhTDOpVuEXIk?usp=sharing)
 
 ## آموزش ویدیویی
-[![آموزش ویدیویی](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](Yq-v9z1zSArncQVv)
+[![آموزش ویدیویی](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](E7K4kXM2adw)
 
 # Whisper
 
