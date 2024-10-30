@@ -1,4 +1,5 @@
 # Whisper
+##اجرا در گوگل کولب
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tz5ddLF1ITYsFNe9eUSmHhTDOpVuEXIk?usp=sharing)
 
 [[Blog]](https://openai.com/blog/whisper)
