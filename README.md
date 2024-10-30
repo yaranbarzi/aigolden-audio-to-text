@@ -1,5 +1,5 @@
 # Whisper
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tz5ddLF1ITYsFNe9eUSmHhTDOpVuEXIk?usp=sharing)
 [[Blog]](https://openai.com/blog/whisper)
 [[Paper]](https://arxiv.org/abs/2212.04356)
 [[Model card]](https://github.com/openai/whisper/blob/main/model-card.md)
@@ -146,7 +146,7 @@ Please use the [🙌 Show and tell](https://github.com/openai/whisper/discussion
 
 
 ## License
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tz5ddLF1ITYsFNe9eUSmHhTDOpVuEXIk?usp=sharing)
+
 
 
 
